@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  while.cpp
 //  While
 //
 //  Created by Paulo De Souza Jr on 2/22/22.
